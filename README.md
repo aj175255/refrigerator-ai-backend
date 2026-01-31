@@ -1,7 +1,7 @@
 # refrigerator-ai-backend 
 
 refrigerator-ai-backend는  
-TV 프로그램** '냉장고를 부탁해'**에 등장하는 모든 레시피를 제공하는  
+TV 프로그램 **냉장고를 부탁해**에 등장하는 모든 레시피를 제공하는  
 모바일 애플리케이션(냉부 앱)을 위해 구축한 **웹 백엔드 서버 프로젝트**입니다.
 
 Android Studio로 제작한 냉부 앱과 연동되며,  
